@@ -1,5 +1,5 @@
 //Páginas
-import Login from './pages/login'
+import Login from './pages/login/index.jsx'
 
 const App = () => {
   return (

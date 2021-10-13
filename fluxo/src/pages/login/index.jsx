@@ -1,13 +1,9 @@
 //Styled components
-import{ 
-    Template
-} from '../components/template/style'
 
-const Login = () => {
+
+function Login () {
   return (
-    <Template>
-    
-    </Template>
+    <></>
   );
 }
 
