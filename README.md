@@ -4,5 +4,5 @@ Repositório App Rotina
 ## tecnologias usadas 
 
 - React
-- Styled Components
+- Styled Components (https://styled-components.com/docs)
 - React Router 
