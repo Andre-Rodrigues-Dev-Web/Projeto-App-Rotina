@@ -12,17 +12,22 @@ import{
 import{
   Field
 } from './inputs/style'
+//componentes diretos
+import Botao from '../buttons'
+
+
 function Formlogin() {
   return (
     <ContainerLogin>
         <CabecalhoLogin>
             <LockContainer>
-            
+                
             </LockContainer>
         </CabecalhoLogin>
         <Bodyform>
             <Field placeholder="User"/>
             <Field placeholder="Password"/>
+            <Botao/>
         </Bodyform>
     </ContainerLogin>
   );
